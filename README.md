@@ -17,14 +17,14 @@ This repository documents my home lab project focused on exploring and understan
 In this lab we will focus on how to use and manage Office 365 and explore the different features it has. We can try **Microsoft Office 365** for free for one month through their website. After entering our information, we should be able to access and use it for our own lab.
 
 <p align="center">
-<img src="https://i.imgur.com/uTWqSmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uTWqSmg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 With our information added, we can now begin exploring Office 365. Key features include the Users section, where we can manage user accounts, add new users, and reset passwords. In Teams, we can collaborate seamlessly through chats, group discussions, and scheduling meetings. Finally, the Subscriptions section allows us to manage payment methods, view invoices, and monitor license usage for active subscriptions.
 
 <p align="center">
-<img src="https://i.imgur.com/7NHPiaT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7NHPiaT.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
@@ -40,7 +40,7 @@ Lets take a look into “Users” on the left hand side and select “Active Use
 Now, let's create a user by selecting Add a user. We will create a user named Bob Brown, with the display name Bob Brown and the username Bob123. The domain will be @SimoTech123.onmicrosoft.com. Click Next. We will not assign Bob a product license at this time, so we'll select Next again.
 
 <p align="center">
-<img src="https://i.imgur.com/icUXrLi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/icUXrLi.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
