@@ -22,11 +22,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+With our information added, we can now begin exploring Office 365. Key features include the Users section, where we can manage user accounts, add new users, and reset passwords. In Teams, we can collaborate seamlessly through chats, group discussions, and scheduling meetings. Finally, the Subscriptions section allows us to manage payment methods, view invoices, and monitor license usage for active subscriptions.
+
 2.
 <p align="center">
 <img src="https://i.imgur.com/7NHPiaT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Lets take a look into “Users” on the left hand side and select “Active Users”.
 
 3.
 <p align="center">
@@ -34,11 +38,16 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now, let's create a user by selecting Add a user. We will create a user named Bob Brown, with the display name Bob Brown and the username Bob123. The domain will be @SimoTech123.onmicrosoft.com. Click Next. We will not assign Bob a product license at this time, so we'll select Next again.
+
 4.
 <p align="center">
 <img src="https://i.imgur.com/icUXrLi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+  
+Next, we have the option to grant Bob administrative access, such as Helpdesk, Teams, Exchange, or User administration. For now, Bob will receive no admin controls. Click Next, then select Finish to complete the user creation process.
+
 
 5.
 <p align="center">
@@ -46,11 +55,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+We have successfully added Bob. A password will be auto-generated for him. Additionally, we can save these configurations as a template in case we need to create another user with the same settings in the future.
+
 6.
 <p align="center">
 <img src="https://i.imgur.com/HaMCFvd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+If we select the Print button, we can send Bob his credentials.
 
 7.
 <p align="center">
@@ -58,11 +71,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now we have a newly user added “Bob Brown”.
+
 8.
 <p align="center">
 <img src="https://i.imgur.com/1gobxwV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Clicking on Bob Brown's profile reveals a wealth of details, including his username, group memberships, contact information, and last sign-in activity. Additionally, it provides options to Sign out of all sessions, reset his password, block sign-in access, or even delete the user account.
 
 9.
 <p align="center">
@@ -70,11 +87,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+In the Licenses and apps tab, we can also assign licenses or products to Bob.
+
 10.
 <p align="center">
 <img src="https://i.imgur.com/7k3cjVC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Now, let's delete the user Bob Brown and recover him. First, select Delete User, then click on Delete user to confirm.
 
 11.
 <p align="center">
@@ -82,11 +103,14 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now, if we head over to the left side panel and select Deleted Users, we can find Bob Brown's account. Select his account, and then we can restore him.
+
 12.
 <p align="center">
 <img src="https://i.imgur.com/Pw4HlIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 
 13.
 <p align="center">
@@ -94,17 +118,23 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now, let's create a user who will have a product and license. Navigate to Active Users, then select Add a user. Name the user Sam Sung, and set the username to Sam123.
+
 14.
 <p align="center">
 <img src="https://i.imgur.com/xaXrxeP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+Assign the user with the Microsoft 365 Business Standard license. 
+
 15.
 <p align="center">
 <img src="https://i.imgur.com/jVeEfFN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+  
+Select “Next” then “Finish”.
 
 16.
 <p align="center">
@@ -112,11 +142,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now, let's assume that Sam will no longer be working with the company, and we need to remove his licenses and disable his account. To do this, click on Sam, then select the Licenses and apps tab. Uncheck Microsoft 365 Business Standard, and click Save changes.
+
 17.
 <p align="center">
 <img src="https://i.imgur.com/kL0NAGW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Next, select Block sign-in, check the box for Block this user from signing in, and then click Save changes.
 
 18.
 <p align="center">
@@ -130,11 +164,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Let's now create a user with licenses. Name the user Chill Guy and assign the necessary licenses and apps for the user.
+
 20.
 <p align="center">
 <img src="https://i.imgur.com/QR5mdeS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Once we finish creating the user, select Chill Guy, then navigate to the Mail tab.
 
 21.
 <p align="center">
@@ -142,11 +180,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Select Read and Manage permissions, then add ourselves to the list. This will give us the ability to add and remove mailbox content, as well as read emails in Chill Guy's mailbox.
+
 22.
 <p align="center">
 <img src="https://i.imgur.com/J4TMDpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Let's also add ourselves to the Send on behalf of permissions, which allows us to send emails using both the mailbox name and Chill Guy's account name. The emails will indicate that they were sent on behalf of Chill Guy.
 
 23.
 <p align="center">
@@ -154,17 +196,24 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+If we want to remove a device from a user, we need to navigate to Exchange by selecting Exchange on the left-hand side panel.
+
 24.
 <p align="center">
 <img src="https://i.imgur.com/gA6ukNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+In Exchange, select the user, in this case, Chill Guy, then select Manage mobile devices on the bottom left.
 25.
+
+
 <p align="center">
 <img src="https://i.imgur.com/TL9X4Gn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Even though there are no mobile devices listed, this is where an admin would manage them.
 
 26.
 <p align="center">
@@ -172,11 +221,16 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Let's enable Manage email forwarding by selecting Mailbox, then Manage email forwarding.
+
+
 27.
 <p align="center">
 <img src="https://i.imgur.com/egoyxK9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Enable Forward all emails sent to this mailbox, and check the box for Deliver message to both forwarding address and mailbox.
 
 28.
 <p align="center">
@@ -184,11 +238,14 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Let's also manage automatic replies by selecting the Others tab and then selecting Manage automatic replies. Enable Automatic replies, and we can enter an automatic reply message in the message box.
+
 29.
 <p align="center">
 <img src="https://i.imgur.com/bpaSRc3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
 
 30.
 <p align="center">
@@ -196,11 +253,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Now, let's test this out by selecting the Apps icon in the top-left corner and then selecting Outlook.
+
 31.
 <p align="center">
 <img src="https://i.imgur.com/T1Zr5UH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Then, we will open another mailbox by selecting the option in the top-right corner.
 
 32.
 <p align="center">
@@ -208,11 +269,17 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Next, search for Chill Guy and select OK. Now, we are in Chill Guy’s Outlook.
+
+
 33.
 <p align="center">
 <img src="https://i.imgur.com/XpBL3D4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Now, let's test the automatic reply by going back to our primary mailbox and sending an email to Chill Guy.
+
 
 34.
 <p align="center">
@@ -220,11 +287,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Chill Guy’s Mailbox
+
 35.
 <p align="center">
 <img src="https://i.imgur.com/xzkbc4X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Our primary mail box
 
 36.
 <p align="center">
@@ -232,11 +303,16 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+We can conclude that the **automatic replies** are working.
+
+Now, let's look into **calendar rights** in Office 365. Open the **Calendar**, then right-click on **My calendar** and select **Sharing and Permissions**.
 37.
 <p align="center">
 <img src="https://i.imgur.com/J6OFtV0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Let's search for Chill Guy and add him as a Delegate for permissions. Check the box for Let delegate view private events, then select Share to finish.
 
 38.
 <p align="center">
@@ -244,11 +320,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Back in Chill Guy’s mailbox, he will receive a notification that the sharing permissions have been enabled. He should click Yes to accept.
+
 39.
 <p align="center">
 <img src="https://i.imgur.com/z0uLFIZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Now that we have delegation control as Chill Guy, we can set up important dates on our admin account that will appear on Chill Guy's calendar. Let's set up a test date on our admin account, such as Thanksgiving Day, and write an important message so that Chill Guy can see it.
 
 40.
 <p align="center">
@@ -256,11 +336,14 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+
 41.
 <p align="center">
 <img src="https://i.imgur.com/jQZp1yO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+On Chill Guy's calendar, we can see that the admin has added a message for Thanksgiving Day. With delegation, we have the option to edit it. Let's make some changes to the event.
 
 42.
 <p align="center">
@@ -268,11 +351,15 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+Double-click on the date, then select Edit on the top-left. Now, we can change anything we want. In this case, I will update the message to "No day off".
+
 43.
 <p align="center">
 <img src="https://i.imgur.com/O7HPS35.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+Back on our admin account we can see the changes to the message.
 
 44.
 <p align="center">
@@ -280,3 +367,4 @@ In this lab we will focus on how to use and manage Office 365 and explore the di
 <br />
 <br />
 
+That concludes our lab on Office 365 congratulations!  We configured permission rights on Office 365 calendar and also delve into  setting up and configuring Office 365 services, managing user accounts, and exploring different key features.
